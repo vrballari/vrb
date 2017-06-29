@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Employee>
+	<name>Venkat</name>
+	<age>48</age>
+	<role>Tech Lead</role>
+	<gender>Male</gender>
+</Employee>
